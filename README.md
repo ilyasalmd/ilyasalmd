@@ -7,8 +7,8 @@ I build games, native Apple apps and AI tooling.
 - **[Screenroom](https://github.com/ilyasalmd/screenroom-app)** — IPTV player for phone, tablet and TV (Apple, Android, Samsung Tizen).
 
 #### Sites
-- **Arcade** — personal site with 25 browser games and real opponents: Connect 4 (alpha-beta search), Battleship (probability-density targeting), Hex, Nim, Blotto, an iterated prisoner's dilemma tournament, Tower of London and more. React, TypeScript, Vite, Web Audio, Playwright-tested. Launching soon.
-- **[Nooja web](https://github.com/ilyasalmd/nooja-web)** — location-aware prayer times and a mushaf-style Qur'an reader in the browser.
+- **[Arcade](https://eloosi.com)** — personal site with 25 browser games and real opponents: Connect 4 (alpha-beta search), Battleship (probability-density targeting), Hex, Nim, Blotto, an iterated prisoner's dilemma tournament, Tower of London and more. React, TypeScript, Vite, Web Audio, Playwright-tested. Live at [eloosi.com](https://eloosi.com).
+- **Nooja web** — location-aware prayer times and a mushaf-style Qur'an reader in the browser.
 
 #### Stack
 TypeScript/React, Swift/SwiftUI, Kotlin/Compose, Python, Supabase, Playwright.
